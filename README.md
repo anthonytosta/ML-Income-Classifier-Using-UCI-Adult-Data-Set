@@ -1,5 +1,5 @@
-# ML-Income-Classifier-Using-UCI-Adult-Data-Set
+ # ML-Income-Classifier-Using-UCI-Adult-Data-Set
 
 ##Overview
 
-This r
+This R code shows a cleaning of a data set, then an analysis of the cleaned data set using lasso, ridge, and random forest models.  
